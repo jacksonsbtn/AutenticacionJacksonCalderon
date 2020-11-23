@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Autenticacion</string>
+    <string name="prefs_file">com.jackson.Firebaseaut.PREFERENCE_FILE_KEY</string>
+    <string name="facebook_app_id">201868961503987</string>
+    <string name="fb_login_protocol_scheme">fb201868961503987</string>
+
+
+</resources>
